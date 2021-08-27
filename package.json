@@ -1,0 +1,25 @@
+{
+    "name": "ibm-i-development-pack",
+    "displayName": "IBM i Development Pack",
+    "description": "Base extensions used for IBM i development in VS Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "author": {
+		"name": "Halcyon Tech Ltd",
+		"url": "https://github.com/halcyon-tech"
+	},
+	"publisher": "halcyontechltd",
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "BrianJGarland.vscode-rpgfree",
+        "barrettotte.ibmi-languages",
+        "HalcyonTechLtd.code-for-ibmi",
+        "HalcyonTechLtd.vscode-ibmi-walkthroughs",
+        "HalcyonTechLtd.code-coverage-ibmi",
+        "HalcyonTechLtd.git-client-ibmi"
+    ]
+}
