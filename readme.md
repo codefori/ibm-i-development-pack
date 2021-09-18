@@ -1,4 +1,4 @@
-## C/C++ Extension Pack
+## IBM i Development Extension Pack
 
 This extension pack includes a set of extensions for IBM i development in Visual Studio Code:
 
