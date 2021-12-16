@@ -22,6 +22,8 @@
         "HalcyonTechLtd.code-for-ibmi",
         "HalcyonTechLtd.vscode-ibmi-walkthroughs",
         "HalcyonTechLtd.code-coverage-ibmi",
-        "HalcyonTechLtd.git-client-ibmi"
+        "HalcyonTechLtd.git-client-ibmi",
+        "usernamehw.errorlens",
+        "wayou.vscode-todo-highlight"
     ]
 }
