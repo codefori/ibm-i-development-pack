@@ -15,6 +15,10 @@ This extension pack includes a set of extensions for IBM i development in Visual
 * [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
+### Other nice to haves, not included in this pack
+
+* [Local History](https://marketplace.visualstudio.com/items?itemName=xyz.local-history)
+
 ### Notice
 
 We have no affiliation with IBM.
