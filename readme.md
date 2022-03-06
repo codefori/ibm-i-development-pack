@@ -12,6 +12,7 @@ This extension pack includes a set of extensions for IBM i development in Visual
 * [Code for IBM i Walkthroughs](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-ibmi-walkthroughs)
 * [Code Coverage for IBM i](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.code-coverage-ibmi)
 * [Git Client for IBM i](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.git-client-ibmi)
+* [IBM i Notebooks](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-ibmi-notebooks)
 * [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
