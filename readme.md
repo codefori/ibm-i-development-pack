@@ -15,7 +15,7 @@ This extension pack includes a set of extensions for IBM i development in Visual
 * [IBM i Notebooks](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-ibmi-notebooks)
 * [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-* [Db2 for IBM i]()
+* [Db2 for IBM i](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-db2i)
 
 ### Recomendations
 
