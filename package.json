@@ -28,6 +28,7 @@
         "usernamehw.errorlens",
         "wayou.vscode-todo-highlight",
         "bitlang.cobol",
-	"HalcyonTechLtd.vscode-db2i"
+        "HalcyonTechLtd.vscode-db2i",
+        "HalcyonTechLtd.vscode-displayfile"
     ]
 }
