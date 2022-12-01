@@ -2,7 +2,7 @@
     "name": "ibm-i-development-pack",
     "displayName": "IBM i Development Pack",
     "description": "Base extensions used for IBM i development in VS Code.",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -15,19 +15,19 @@
     "categories": [
         "Extension Packs"
     ],
-    "keywords": ["ibmi", "iseries", "as400", "rpgle", "cobol", "ile", "db2"],
+    "keywords": ["ibmi", "iseries", "as400", "rpgle", "cobol", "ile", "db2", "cl", "clle"],
     "extensionPack": [ 
         "BrianJGarland.vscode-rpgfree",
         "barrettotte.ibmi-languages",
         "HalcyonTechLtd.code-for-ibmi",
         "HalcyonTechLtd.vscode-ibmi-walkthroughs",
-        "HalcyonTechLtd.code-coverage-ibmi",
         "halcyontechltd.vscode-rpgle",
         "HalcyonTechLtd.vscode-ibmi-notebooks",
         "usernamehw.errorlens",
         "wayou.vscode-todo-highlight",
         "bitlang.cobol",
         "HalcyonTechLtd.vscode-db2i",
-        "HalcyonTechLtd.vscode-displayfile"
+        "HalcyonTechLtd.vscode-displayfile",
+        "IBM.vscode-clle"
     ]
 }

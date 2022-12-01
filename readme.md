@@ -5,17 +5,17 @@ This extension pack includes a set of extensions for IBM i development in Visual
 ### IBM i and language specific
 
 * [Code for IBM i](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.code-for-ibmi)
-* [IBMi Languages](https://marketplace.visualstudio.com/items?itemName=barrettotte.ibmi-languages)
-* [RPGLE language tools](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-rpgle)
+* [IBMi Languages](https://marketplace.visualstudio.com/items?itemName=barrettotte.ibmi-languages) (highlighting)
+* [RPGLE](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-rpgle)
 * [COBOL](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol)
+* [CL](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-clle)
 * [RPGLE Free](https://marketplace.visualstudio.com/items?itemName=BrianJGarland.vscode-rpgfree)
 * [Code for IBM i Walkthroughs](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-ibmi-walkthroughs)
-* [Code Coverage for IBM i](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.code-coverage-ibmi)
 * [IBM i Notebooks](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-ibmi-notebooks)
-* [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
-* [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 * [Db2 for IBM i](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-db2i)
 * [IBM i Renderer](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-displayfile)
+* [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+* [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
 ### Recomendations
 
