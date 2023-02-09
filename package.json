@@ -28,6 +28,7 @@
         "bitlang.cobol",
         "HalcyonTechLtd.vscode-db2i",
         "HalcyonTechLtd.vscode-displayfile",
-        "IBM.vscode-clle"
+        "IBM.vscode-clle",
+	"IBM.ibmidebug"
     ]
 }
