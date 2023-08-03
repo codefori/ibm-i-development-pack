@@ -29,6 +29,7 @@
         "HalcyonTechLtd.vscode-db2i",
         "HalcyonTechLtd.vscode-displayfile",
         "IBM.vscode-clle",
-	"IBM.ibmidebug"
+	    "IBM.ibmidebug",
+        "IBM.vscode-ibmi-projectexplorer"
     ]
 }
