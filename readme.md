@@ -16,6 +16,7 @@ This extension pack includes a set of extensions for IBM i development in Visual
 * [IBM i Renderer](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-displayfile)
 * [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+* [IBM i Project Explorer](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-ibmi-projectexplorer)
 
 ### Recomendations
 
