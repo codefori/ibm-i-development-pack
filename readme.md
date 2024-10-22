@@ -17,6 +17,7 @@ This extension pack includes a set of extensions for IBM i development in Visual
 * [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 * [IBM i Project Explorer](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-ibmi-projectexplorer)
+* [Source Orbit](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-sourceorbit)
 
 ### Recomendations
 

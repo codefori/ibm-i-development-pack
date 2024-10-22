@@ -36,6 +36,7 @@
         "HalcyonTechLtd.vscode-displayfile",
         "IBM.vscode-clle",
 	    "IBM.ibmidebug",
-        "IBM.vscode-ibmi-projectexplorer"
+        "IBM.vscode-ibmi-projectexplorer",
+        "IBM.vscode-sourceorbit"
     ]
 }
