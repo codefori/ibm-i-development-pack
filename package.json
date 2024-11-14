@@ -7,16 +7,33 @@
         "vscode": "^1.59.0"
     },
     "author": {
-		"name": "Halcyon Tech Ltd",
-		"url": "https://github.com/halcyon-tech"
-	},
+        "name": "Halcyon Tech Ltd",
+        "url": "https://github.com/halcyon-tech"
+    },
+    "homepage": "https://github.com/halcyon-tech/ibm-i-development-pack/blob/master/readme.md",
+    "repository": {
+        "url": "https://github.com/halcyon-tech/ibm-i-development-pack"
+    },
+    "bugs": {
+        "url": "https://github.com/halcyon-tech/ibm-i-development-pack/issues"
+    },
     "icon": "icon.png",
-	"publisher": "halcyontechltd",
+    "publisher": "halcyontechltd",
     "categories": [
         "Extension Packs"
     ],
-    "keywords": ["ibmi", "iseries", "as400", "rpgle", "cobol", "ile", "db2", "cl", "clle"],
-    "extensionPack": [ 
+    "keywords": [
+        "ibmi",
+        "iseries",
+        "as400",
+        "rpgle",
+        "cobol",
+        "ile",
+        "db2",
+        "cl",
+        "clle"
+    ],
+    "extensionPack": [
         "BrianJGarland.vscode-rpgfree",
         "barrettotte.ibmi-languages",
         "HalcyonTechLtd.code-for-ibmi",
@@ -28,6 +45,8 @@
         "HalcyonTechLtd.vscode-db2i",
         "HalcyonTechLtd.vscode-displayfile",
         "IBM.vscode-clle",
-	"IBM.ibmidebug"
+        "IBM.ibmidebug",
+        "IBM.vscode-ibmi-projectexplorer",
+        "IBM.vscode-sourceorbit"
     ]
 }
