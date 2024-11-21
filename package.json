@@ -2,7 +2,7 @@
     "name": "ibm-i-development-pack",
     "displayName": "IBM i Development Pack",
     "description": "Base extensions used for IBM i development in VS Code.",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.59.0"
     },
