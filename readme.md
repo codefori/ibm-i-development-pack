@@ -9,15 +9,16 @@ This extension pack includes a set of extensions for IBM i development in Visual
 * [RPGLE](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-rpgle)
 * [COBOL](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol)
 * [CL](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-clle)
-* [RPGLE Free](https://marketplace.visualstudio.com/items?itemName=BrianJGarland.vscode-rpgfree)
 * [Code for IBM i Walkthroughs](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-ibmi-walkthroughs)
 * [IBM i Notebooks](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-ibmi-notebooks)
 * [Db2 for IBM i](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-db2i)
 * [IBM i Renderer](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-displayfile)
-* [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
-* [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 * [IBM i Project Explorer](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-ibmi-projectexplorer)
 * [Source Orbit](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-sourceorbit)
+
+### Niceties
+
+* [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
 ### Recomendations
 

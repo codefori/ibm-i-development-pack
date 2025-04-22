@@ -34,13 +34,11 @@
         "clle"
     ],
     "extensionPack": [
-        "BrianJGarland.vscode-rpgfree",
         "barrettotte.ibmi-languages",
         "HalcyonTechLtd.code-for-ibmi",
         "HalcyonTechLtd.vscode-ibmi-walkthroughs",
         "halcyontechltd.vscode-rpgle",
         "usernamehw.errorlens",
-        "wayou.vscode-todo-highlight",
         "bitlang.cobol",
         "HalcyonTechLtd.vscode-db2i",
         "HalcyonTechLtd.vscode-displayfile",
