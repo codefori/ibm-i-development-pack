@@ -10,7 +10,6 @@ This extension pack includes a set of extensions for IBM i development in Visual
 * [COBOL](https://marketplace.visualstudio.com/items?itemName=bitlang.cobol)
 * [CL](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-clle)
 * [Code for IBM i Walkthroughs](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-ibmi-walkthroughs)
-* [IBM i Notebooks](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-ibmi-notebooks)
 * [Db2 for IBM i](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-db2i)
 * [IBM i Renderer](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-displayfile)
 * [IBM i Project Explorer](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-ibmi-projectexplorer)
