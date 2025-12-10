@@ -13,11 +13,6 @@ on:
         type: boolean
         required: true
         default: true
-      publish_npm:
-        description: 'Publish Types to NPM'
-        type: boolean
-        required: true
-        default: true
 
   release:
     types: [created]
