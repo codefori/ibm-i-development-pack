@@ -1,16 +1,57 @@
+name: Release
+
 on:
+  workflow_dispatch:
+    inputs:
+      publish_openvsx:
+        description: 'Publish to Open VSX'
+        type: boolean
+        required: true
+        default: true
+      publish_marketplace:
+        description: 'Publish to Marketplace'
+        type: boolean
+        required: true
+        default: true
+      publish_npm:
+        description: 'Publish Types to NPM'
+        type: boolean
+        required: true
+        default: true
+
   release:
     types: [created]
-    
+
 jobs:
   release:
-    name: Release and publish
+    name: Releas
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - run: npm install
-      - uses: lannonbr/vsce-action@master
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          args: "publish -p $PUBLISHER_TOKEN"
+          ref: main
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Install NPM Dependencies
+        run: |
+          npm install
+          npm install -g vsce ovsx
+
+      - name: Publish to Open VSX
+        if: github.event_name == 'release' || inputs.publish_openvsx == true
+        run: npx ovsx publish -p $OPENVSX_TOKEN
+        env:
+          OPENVSX_TOKEN: ${{ secrets.OPENVSX_TOKEN }}
+
+      - name: Publish to Marketplace
+        if: github.event_name == 'release' || inputs.publish_marketplace == true
+        run: vsce publish -p $PUBLISHER_TOKEN
         env:
           PUBLISHER_TOKEN: ${{ secrets.PUBLISHER_TOKEN }}
