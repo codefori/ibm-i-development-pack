@@ -45,6 +45,7 @@
         "IBM.vscode-clle",
         "IBM.ibmidebug",
         "IBM.vscode-ibmi-projectexplorer",
-        "IBM.vscode-sourceorbit"
+        "IBM.vscode-sourceorbit",
+        "IBM.vscode-ibmi-testing"
     ]
 }
