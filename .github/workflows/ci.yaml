@@ -19,7 +19,7 @@ on:
 
 jobs:
   release:
-    name: Releas
+    name: Release
     runs-on: ubuntu-latest
 
     steps:
