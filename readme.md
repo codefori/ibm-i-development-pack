@@ -15,6 +15,8 @@ This extension pack includes a set of extensions for IBM i development in Visual
 * [IBM i Project Explorer](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-ibmi-projectexplorer)
 * [Source Orbit](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-sourceorbit)
 * [IBM i Testing](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-ibmi-testing)
+* [RPG IV to Free Format](https://marketplace.visualstudio.com/items?itemName=CozziResearch.rpgiv2free) - Convert RPG IV fixed-format code to free-format
+* [CL Prompter and Formatter](https://marketplace.visualstudio.com/items?itemName=CozziResearch.clprompter) - IBM i CL command prompting and formatting
 
 ### Niceties
 

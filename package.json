@@ -47,6 +47,8 @@
         "IBM.ibmidebug",
         "IBM.vscode-ibmi-projectexplorer",
         "IBM.vscode-sourceorbit",
-        "IBM.vscode-ibmi-testing"
+        "IBM.vscode-ibmi-testing",
+        "CozziResearch.rpgiv2free",
+        "CozziResearch.clprompter"
     ]
 }
