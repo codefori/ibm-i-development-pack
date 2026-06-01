@@ -43,6 +43,7 @@
         "bitlang.cobol",
         "HalcyonTechLtd.vscode-db2i",
         "HalcyonTechLtd.vscode-displayfile",
+        "halcyontechltd.vscode-ibmi-fs",
         "IBM.vscode-clle",
         "IBM.ibmidebug",
         "IBM.vscode-ibmi-projectexplorer",

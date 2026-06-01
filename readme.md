@@ -15,6 +15,7 @@ This extension pack includes a set of extensions for IBM i development in Visual
 * [IBM i Project Explorer](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-ibmi-projectexplorer)
 * [Source Orbit](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-sourceorbit)
 * [IBM i Testing](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-ibmi-testing)
+* [IBM i FileSystem](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-ibmi-fs)
 
 ### Niceties
 
