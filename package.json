@@ -3,7 +3,7 @@
     "displayName": "IBM i Development Pack",
     "description": "Base extensions used for IBM i development in VS Code.",
     "version": "0.3.5",
-	"license": "MIT",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -47,6 +47,8 @@
         "IBM.vscode-clle",
         "IBM.ibmidebug",
         "IBM.vscode-ibmi-projectexplorer",
-        "IBM.vscode-ibmi-testing"
+        "IBM.vscode-ibmi-testing",
+        "CozziResearch.rpgiv2free",
+        "CozziResearch.clprompter"
     ]
 }
