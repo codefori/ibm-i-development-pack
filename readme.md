@@ -15,8 +15,12 @@ This extension pack includes a set of extensions for IBM i development in Visual
 * [IBM i Project Explorer](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-ibmi-projectexplorer)
 * [IBM i Testing](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-ibmi-testing)
 * [IBM i FileSystem](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-ibmi-fs)
-* [RPGIV2FREE](https://marketplace.visualstudio.com/items?itemName=CozziResearch.rpgiv2free) ([Open VSX](https://open-vsx.org/extension/CozziResearch/rpgiv2free))
-* [CL Prompter](https://marketplace.visualstudio.com/items?itemName=CozziResearch.clprompter) ([Open VSX](https://open-vsx.org/extension/CozziResearch/clprompter))
+* RPGIV2FREE
+  * [Get from Marketplace](https://marketplace.visualstudio.com/items?itemName=CozziResearch.rpgiv2free)
+  * [Get from Open VSX](https://open-vsx.org/extension/CozziResearch/rpgiv2free)
+* CL Prompter
+  * [Get from Marketplace](https://marketplace.visualstudio.com/items?itemName=CozziResearch.clprompter)
+  * [Get from Open VSX](https://open-vsx.org/extension/CozziResearch/clprompter)
 
 ### Niceties
 
