@@ -41,12 +41,8 @@ jobs:
 
       - name: Publish to Open VSX
         if: github.event_name == 'release' || inputs.publish_openvsx == true
-        run: npx ovsx publish -p $OPENVSX_TOKEN
-        env:
-          OPENVSX_TOKEN: ${{ secrets.OPENVSX_TOKEN }}
+        run: npx ovsx publish --oidc -p $OPENVSX_TOKEN
 
       - name: Publish to Marketplace
         if: github.event_name == 'release' || inputs.publish_marketplace == true
-        run: vsce publish -p $PUBLISHER_TOKEN
-        env:
-          PUBLISHER_TOKEN: ${{ secrets.PUBLISHER_TOKEN }}
+        run: vsce publish --trusted-publishing -p $PUBLISHER_TOKEN
