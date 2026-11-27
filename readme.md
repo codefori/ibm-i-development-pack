@@ -12,6 +12,7 @@ This extension pack includes a set of extensions for IBM i development in Visual
 * [Code for IBM i Walkthroughs](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-ibmi-walkthroughs)
 * [Db2 for IBM i](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-db2i)
 * [IBM i Renderer](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-displayfile)
+* [IBM i Debug](https://marketplace.visualstudio.com/items?itemName=IBM.ibmidebug)
 * [IBM i Project Explorer](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-ibmi-projectexplorer)
 * [IBM i Testing](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-ibmi-testing)
 * [IBM i FileSystem](https://marketplace.visualstudio.com/items?itemName=HalcyonTechLtd.vscode-ibmi-fs)
@@ -22,9 +23,9 @@ This extension pack includes a set of extensions for IBM i development in Visual
 
 * [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
-### Recomendations
+### Recommendations
 
-Extensions that are useful for IBM i but are not pack of the pack:
+Other useful extensions for IBM i:
 
 * [anycode](https://marketplace.visualstudio.com/items?itemName=ms-vscode.anycode) adds basic language tools for C/C++ and works very well with sources located on IBM i.
 
